@@ -175,4 +175,4 @@ corner_points = np.array([
 [0, 0, 179, 5, 229, 196, 20, 195],
 [0, 0, 194, 6, 223, 122, -8, 116],
 
-], dtype=np.float64)
+], dtype=np.int64)
